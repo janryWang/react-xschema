@@ -1,26 +1,26 @@
 {
-    "name": "react-xschema-form",
-    "description": "A form input builder and validator with json schema for React JS",
-    "main": "index.js",
-    "scripts": {
-      "test": "test"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/janryWang/react-xschema.git"
-    },
-    "keywords": [
-      "json",
-      "schema",
-      "react",
-      "form",
-      "input"
-    ],
-    "author": "janrywang",
-    "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/janryWang/react-xschema/issues"
-    },
-    "homepage": "https://github.com/janryWang/react-xschema#readme"
-  }
-  
+  "name": "react-xschema-form",
+  "description": "A form input builder and validator with json schema for React JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janryWang/react-xschema.git"
+  },
+  "keywords": [
+    "json",
+    "schema",
+    "react",
+    "form",
+    "input"
+  ],
+  "author": "janrywang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/janryWang/react-xschema/issues"
+  },
+  "homepage": "https://github.com/janryWang/react-xschema#readme",
+  "version": "0.1.0-alpha.0"
+}
