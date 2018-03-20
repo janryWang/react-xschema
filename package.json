@@ -1,0 +1,11 @@
+{
+  "name": "react-xschema",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "janrywang",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^2.9.0"
+  }
+}
