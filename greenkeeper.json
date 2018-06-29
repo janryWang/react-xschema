@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "package.json",
+        "packages/react-xschema-form/package.json"
+      ]
+    }
+  }
+}
